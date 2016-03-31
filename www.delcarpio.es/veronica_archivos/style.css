@@ -1,0 +1,84 @@
+SELECT {
+	BORDER-RIGHT: #7f7f7f 1px solid; BORDER-TOP: #7f7f7f 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: normal; FONT-SIZE: 10px; MARGIN-BOTTOM: 1px; BORDER-LEFT: #7f7f7f 1px solid; COLOR: #000000; BORDER-BOTTOM: #7f7f7f 1px solid; FONT-STYLE: normal; FONT-FAMILY: verdana,arial,helvetica,serifenlos,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+INPUT {
+	BORDER-RIGHT: #404040 1px solid; BORDER-TOP: #404040 1px solid; PADDING-LEFT: 2px; FONT-WEIGHT: normal; FONT-SIZE: 10px; BORDER-LEFT: #404040 1px solid; COLOR: #000000; BORDER-BOTTOM: #404040 1px solid; FONT-STYLE: normal; FONT-FAMILY: verdana,arial,helvetica,serifenlos,sans-serif; BACKGROUND-COLOR: #ffffff
+}
+.topnav {
+	FONT: 11px/1.4 verdana, arial, helvetica, sans-serif; COLOR: #0066cc
+}
+.boldtext {
+	FONT: bold 12px Verdana, Arial, Helvetica, sans-serif; COLOR: #6a6a6a
+}
+.linklist {
+	MARGIN: 0.5em 0px; FONT: 11px/18px verdana, arial, helvetica, sans-serif; COLOR: #0066cc
+}
+.prodtext {
+	MARGIN: 0.5em 0px; FONT: 11px/18px verdana, arial, helvetica, sans-serif; COLOR: #424141
+}
+.links {
+	FONT: bold 9px/1.5 arial, verdana, helvetica, sans-serif; COLOR: #6a6a6a
+}
+.prod {
+	MARGIN: 0.5em 0px; FONT: 10px/1.4 arial, helvetica, sans-serif
+}
+CODE {
+	FONT: bold 10px/1.5 verdana, arial, helvetica, sans-serif; COLOR: #6a6a6a
+}
+.news {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px
+}
+.detail {
+	MARGIN: 0.5em 0px; FONT: 11px/1.4 verdana, arial, helvetica, sans-serif
+}
+.small {
+	FONT: 10px/1.4 arial, verdana, helvetica, sans-serif
+}
+.bcks {
+	MARGIN: 0.5em 0px; FONT: 11px/1.5 verdana, arial, helvetica, sans-serif; COLOR: #424141; BACKGROUND-COLOR: #f5f5f5; line-: 18px
+}
+.bck {
+	FONT: 11px/1.5 verdana, arial, helvetica, sans-serif; COLOR: #333333; BACKGROUND-COLOR: #f5f5f5
+}
+.mainnav {
+	FONT: 11px/1.4 verdana, arial, helvetica, sans-serif; COLOR: #0066cc
+}
+.subnav {
+	FONT: 11px/1.1 verdana, arial, helvetica, sans-serif; COLOR: #0066cc
+}
+.ad {
+	FONT: 10px verdana, arial, helvetica, sans-serif; COLOR: #0066cc
+}
+.footer {
+	FONT: 9px Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT: bold 14px verdana, arial, helvetica, sans-serif; COLOR: #424141
+}
+H4 {
+	FONT: bold 12px Verdana, Arial, Helvetica, sans-serif
+}
+OL {
+	FONT: 11px/1.5 verdana, arial, helvetica, sans-serif
+}
+UL {
+	FONT: 11px/1.5 verdana, arial, helvetica, sans-serif
+}
+A:visited {
+	COLOR: #6a6a6a; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #6a6a6a; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0066cc; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #6a6a6a; BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+.tabella {
+	BORDER-RIGHT: #999999 thin solid; BORDER-TOP: #999999 thin solid; BORDER-LEFT: #999999 thin solid; BORDER-BOTTOM: #999999 thin solid
+}
+.form {
+	BORDER-RIGHT: #666666 1px; BORDER-TOP: #666666 1px; FONT-WEIGHT: bold; FONT-SIZE: 10px; BORDER-LEFT: #666666 1px; COLOR: #666666; BORDER-BOTTOM: #666666 1px dotted; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
